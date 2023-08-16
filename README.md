@@ -8,9 +8,9 @@
 
 🌱 Sinta-se à vontade para explorar meus projetos, clonar repositórios e fornecer feedback construtivo. Estou em constante evolução e adoraria conectar-me com outros entusiastas da tecnologia.
 
-<!-- div align="center">
+<div align="center">
   <a href="https://github.com/ruthmendonca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruthmendonca&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/ -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruthmendonca&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmendonca&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
