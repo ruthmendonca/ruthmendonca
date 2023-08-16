@@ -1,5 +1,5 @@
-### Oii!✨🤗
-
+<h1 align="center"> Oii!✨🤗</h1>
+<hr>
  Meu nome é Ruth Mendonça, tenho 18 anos e meus pronomes são Ela/Dela. Estou na área de tecnologia desde os 14 anos; sou formada como técnica em Desenvolvimento de Sistemas e estou cursando graduação em Desenvolvimento de Software Multiplataforma pela FATEC.
 
 💻 Este repositório é uma coleção das minhas aventuras no mundo da programação. Aqui você encontrará projetos, exercícios e experimentos que refletem minha paixão pelo desenvolvimento de software. Estou constantemente aprendendo e buscando maneiras de aplicar meus conhecimentos em projetos interessantes e desafiadores.
@@ -8,8 +8,21 @@
 
 🌱 Sinta-se à vontade para explorar meus projetos, clonar repositórios e fornecer feedback construtivo. Estou em constante evolução e adoraria conectar-me com outros entusiastas da tecnologia.
 
-📫 Você pode me encontrar em rruthmendonca@gmail.com ou nas redes sociais como @ruthmendonca_
+<!-- div align="center">
+  <a href="https://github.com/ruthmendonca">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruthmendonca&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/ -->
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmendonca&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+  <div style="display: inline_block"><br>
 
+ ## Contato 
+📫 Você pode me encontrar nas redes sociais como @ruthmendonca_
+
+<a href = "mailto:rruthmendonca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ruthmendonca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 Vamos colaborar e fazer grandes coisas juntos!
 Divirta-se explorando o meu mundo de desenvolvimento!
 
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
