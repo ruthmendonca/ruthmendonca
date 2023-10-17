@@ -1,4 +1,4 @@
-<h1 align="center"> Oii!✨🤗</h1>
+<h1 align="center"> Hello!✨🤗</h1>
 <hr>
  Meu nome é Ruth Mendonça, tenho 18 anos e meus pronomes são Ela/Dela. Estou na área de tecnologia desde os 14 anos; sou formada como técnica em Desenvolvimento de Sistemas e estou cursando graduação em Desenvolvimento de Software Multiplataforma pela FATEC.
 
